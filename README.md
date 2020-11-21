@@ -1,4 +1,5 @@
 # Unit-6-Website-development
+
 ------------------------------------------------------------------------------------------------------------
 Notes:
 1. This project is from my work in BTEC IT Extended Diploma. This is the actual work that I submitted for my grade (in past) and I am happy for anyone to use it for their own projects and/or proof of work I can do and have done.
@@ -21,10 +22,12 @@ You can contact me at miltzjr@gmail.com, I am happy to answer any queries you ma
 
 ------------------------------------------------------------------------------------------------------------
 To donate:
+
 Visit paypal.me/lmiltiadou
 
 ------------------------------------------------------------------------------------------------------------
 Updates: 
+
 V0.0.1 - Unit-6-Website-development was updated *File created - 'readme.md'  
 
 v0.0.2 - reame.md was updated *Section added - 'If you are viewing this because:'
