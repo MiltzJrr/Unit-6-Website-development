@@ -48,7 +48,7 @@ v0.0.8 - reame.md was updated *Section updated - 'Terms & Conditions!'
 
 v0.0.9 - Unit-6-Website-development was updated *File(s) uploaded - 'Lucas Miltiadou Unit 6 Assignment 1.docx','Final Evaluation.docx','Flow Diagram.pdf','Improvements.pdf','Mood Boards.pdf','Questionnaire.pdf','sitemap.pptx','Test log.docx','Test plan.docx','11.12.2019 - WCS website.ste','broken - Worcester Civic Society.ste','WCS 03.02.2020.ste','Worcester Civic Society.ste','About.jpg','btnAbout.jpg','btnContact.jpg','btnEvents.jpg','btnFinoutmore.jpg','btnHome.jpg','btnMembershio.jpg','btnNewsletter.jpg','btnSignup.jpg','btnSitemap.jpg','dbpainting.jpg','favicon.ico','groupphoto.jpg','Home Button.png','House.jpg','Logo.ico','Logo.jpg','Logo.png','railway.jpg', 'slide01.jpg','slide02.jpg','slide03.jpg','The Hive.jpg','Tudor House.jpg','WCS logo.png','Worcestercatherdral.jpg','Worcesterpub.jpg'
 
-v0.0.10 - reame.md was updated *Section updated - 'Terms & Conditions!'
+GlobalUpdate - reame.md was updated *Section updated - 'Terms & Conditions!'
 
 ------------------------------------------------------------------------------------------------------------
 Terms & Conditions!
