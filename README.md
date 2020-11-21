@@ -30,7 +30,7 @@ Visit paypal.me/lmiltiadou
 ------------------------------------------------------------------------------------------------------------
 Updates: 
 
-V0.0.1 - Unit-6-Website-development was updated *File created - 'readme.md'  
+V0.0.1 - Unit-6-Website-development was updated *File(s) created - 'readme.md'  
 
 v0.0.2 - reame.md was updated *Section added - 'If you are viewing this because:'
 
@@ -42,6 +42,10 @@ v0.0.5 - reame.md was updated *Section added - 'notes'
 
 v0.0.6 - reame.md was updated *Section added - 'Terms & Conditions!'
 
+v0.0.7 - Unit-6-Website-development was updated *File(s) uploaded - 'home.html','about.html','contact.html','events.html','form.html','membership.html','newsletters.html','thankyou.html','sitemap.html','styles.css' 
+
+v0.0.8 - reame.md was updated *Section updated - 'Terms & Conditions!'
+
 ------------------------------------------------------------------------------------------------------------
 Terms & Conditions!
 
@@ -50,7 +54,7 @@ Terms & Conditions!
   1.c. Some of the work that is uploaded may not be up-to-date and therefore would not be a good way to structure your evaluations or explanaitions on certain criteria. For example, in my Unit 6 Assignment 1, I did not understand the Typography sector clearly and therefore wrote about the wrong information or did not include enough information. *if you are feeling the same way about a certain charteristic or sector please inform your lecturer or teacher as they may be more help than I could be.
   
 2.a. Please note that following a similar pattern as I have in some of my work may not award you a similar grade since all exam boards or workplaces have a different preference and standard of how certain work is completed and by following the structures and language I have used might not award you similarly.
-  2.b. 
+  2.b. Some files may not be working, this is because of how they were created. Therefore it would be a good idea to recreate the files using your own directories and then test them. 
 
 3.a. I am more than happy for you to use any references or sources I have left in the files in order for you to write assignments, however, please make sure you note the T&Cs when doing so. 
   3.b. Not all sources may be appropriate for you to use, please make sure you use the correct and appropriate sources as well as noting where you got them from. For example, if you used any of my content in an assignment and are required to list sources, make sure that you do. 
