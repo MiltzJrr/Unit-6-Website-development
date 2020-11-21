@@ -5,6 +5,8 @@ Notes:
 1. This project is from my work in BTEC IT Extended Diploma. This is the actual work that I submitted for my grade (in past) and I am happy for anyone to use it for their own projects and/or proof of work I can do and have done.
 
 2. For Unit 6, you will see there is no Assignment 3 (U6A3) as this final assignment was paired with /Unit-9-Project-Management.
+
+3. Some files may not be working, this is because of how they were created. This would be because the file paths are outdated or they created on a certain program or application.
 ------------------------------------------------------------------------------------------------------------
 If you are viewing this because:
 
