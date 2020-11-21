@@ -1,0 +1,657 @@
+@charset "utf-8";
+/* CSS Document */
+
+@charset "utf-8";
+/* CSS Document */
+#headtitle {
+    background-image: url(../Assets/slide01.jpg);
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 400px;
+    font-family: calibri;
+    font-size: large;
+    font-style:inherit; 
+	text-align:center; 
+	padding:15px; 
+}
+a:link {
+    color: #000;
+}
+a:visited {
+    color: #000;
+}
+a:hover {
+    color: #000;
+}
+#bodytext-Home{
+	background-color:white;
+	width:1260px;
+	position:relative;
+	margin:0px auto;
+	height:400px;
+}
+#bodytext-About {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 400px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#bodytext-Events {
+    text-align: Center;
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 250px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#bodytext-Contact{
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 400px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#bodytext-Signup {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 400px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#bodytext-Membership {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 1550px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#bodytext-Thankyou {
+	text-align:center;
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 400px;
+}
+#bodytext-Sitemap {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 300px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#divider{
+	background-color:black;
+	width:1260px;
+	margin:0px auto;
+	height:1px;
+    font-family: calibri;
+    font-size: large;
+    padding: 5px;
+}
+#sectiona-Home {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 150px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#sectiona-About {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 500px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#sectiona-Events {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 150px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#sectiona-Contact {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 150px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#sectiona-Signup {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 150px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#sectiona-Membership {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 150px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#sectionb-Home {
+    background-image: url(../Assets/slide02.jpg);
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 425px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#sectionb-About {
+    background-image: url(../Assets/slide02.jpg);
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 425px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#sectionc-Home {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 200px;
+    font-family: calibri;
+    font-size:large;
+    padding:10px;
+}
+#sectiond-Home {
+    background-image: url(../Assets/TheHive.jpg);
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 550px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#sectione-Home {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 175px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#OKB {
+    background-color: white;
+    color:black;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 0px;
+    font-family: calibri;
+    font-size: large;
+    font-display:auto;
+    padding: 5px;
+}
+#PersonalMembership {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 300px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#CorporateMembership {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 300px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#StudentMembership {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 300px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#FFI {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 750px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#form-Contact {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 700px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#form-Signup {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 700px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#newsletters {
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 700px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+}
+#event_1{
+    background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 400px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+	}
+#event_2{
+	background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 400px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+	}
+#event_3{
+	background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 500px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+	}
+#event_4{
+	background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 400px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+	}
+#event_5{
+	background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 475px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+	}
+#event_6{
+	background-color: white;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 475px;
+    font-family: calibri;
+    font-size: large;
+    padding: 10px;
+	}
+#footer {
+    text-align: center;
+    background-color: black;
+    width: 1260px;
+    position: relative;
+    margin: 0px auto;
+    height: 150px;
+    color: white;
+    font-size: medium;
+    padding: 10px;
+}
+
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+	
+#bodytext-Home {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#bodytext-About {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#bodytext-Events {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#bodytext-Home {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#bodytext-Contact {
+	height:600px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#bodytext-Membership {
+	height:600px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#bodytext-Signup {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#bodytext-Thankyou {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#bodytext-Signup {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#divider{
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#sectiona-Home {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#sectiona-About {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#sectiona-Events {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#sectiona-Contact {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;		
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#sectiona-Signup {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#sectiona-Membership {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#sectionb-Home {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#sectionb-About {
+	height:600px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#sectionc-Home {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#sectiond-Home {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#sectione-Home {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#OKB {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#PersonalMembership {
+	height:600px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#CorporateMembership {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#StudentMembership {
+	height:600px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#FFI {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#form-Contact {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#form-Signup {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#newsletters {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#event_1{
+	height:600px;
+	margin-top:0px;
+	font-size:20px;	
+	}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#event_2{
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;		
+	}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#event_3{
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+	}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#event_4{
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+	}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#event_5{
+	height:600px;
+	margin-top:0px;
+	font-size:20px;	
+	}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#event_6{
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+	}
+}
+@media screen (max-device-width: 375px)(max-device-height: 812px) {
+#footer {
+	height:600px;
+	width:350px;
+	margin-top:0px;
+	font-size:20px;	
+}
+}

@@ -1,0 +1,153 @@
+﻿<!DOCTYPE html>
+<head>
+    <title>Sign up</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../Assets/Favicon.ico" />
+    <link href="Styles.css" rel="stylesheet" type="text/css">
+    <meta name="viewport" content="width = device - width, initial-scale = 1"/>
+    <script>
+function validateEntry() {
+    var Firstname = document.forms["validation"]["Firstname"].value;
+	var Secondname = document.forms["validation"]["Secondname"].value;
+	var Emailaddress = document.forms["validation"]["Emailaddress"].value;
+	var Teleno = document.forms["validation"]["Teleno"].value;
+	var Postcode = document.forms["validation"]["Postcode"].value;
+	var Address = document.forms["validation"]["Address"].value;
+	var County = document.forms["validation"]["County"].value;
+	var Country = document.forms["validation"]["Country"].value;
+
+	
+    if (Firstname == null || Firstname == " ") {
+        alert("You cannot leave a blank field. Please enter your First name");
+        return false;
+    }
+    if (Secondname == null || Secondname == " ") {
+        alert("You cannot leave a blank field. Please enter your Second name");
+        return false;
+    }
+    if (Emailaddress == null || Emailaddress == " ") {
+        alert("You cannot leave a blank field. Please enter your Email address");
+        return false;
+    }
+    if (Teleno == null || Teleno == " ") {
+        alert("You cannot leave a blank field. Please enter your Telephone number");
+        return false;
+    }
+    if (Postcode == null || Postcode == " ") {
+        alert("You cannot leave a blank field. Please enter your Postcode");
+        return false;
+    }
+    if (Address == null || Address == " ") {
+        alert("You cannot leave a blank field. Please enter your Address");
+        return false;
+    }
+    if (County == null || County == " ") {
+        alert("You cannot leave a blank field. Please enter your County");
+        return false;
+    }
+    if (Country == null || Country == " ") {
+        alert("You cannot leave a blank field. Please enter your Country");
+        return false;
+    }
+}
+    </script>
+</head>
+<body>
+    <div id="divider">
+        <br />
+    </div>
+    <div id="headtitle">
+        <h3>
+            <a href="Home.html"><img src="../Assets/WCS Logo.png" width="110" height="110" style="padding:28px; font-size:20px; float:left;" alt="WCS Logo"></a>
+            <a href="Contact.html" style="font-style:inherit; text-align:center; padding:15px; float:right;">Contact</a>
+            <a href="Events.html" style="font-style:inherit; text-align:center; padding:15px; float:right;">Events</a>
+            <a href="Membership.html" style="font-style:inherit; text-align:center; padding:15px; float:right;">Membership</a>
+            <a href="About.html" style="font-style:inherit; text-align:center; padding:15px; float:right;">About</a>
+            <a href="Home.html" style="font-style:inherit; text-align:center; padding:15px; float:right;">Home</a>
+            <br />
+        </h3><br />
+    </div>
+    <div id="divider">
+        <br />
+    </div>
+    <div id="form-Signup">
+       <form name="validation" onsubmit="return validateEntry()">
+          <p>
+                    Your First name (required)<br />
+                    <input type="text" name="Firstname"  >
+            </p>
+            <p>
+                    Your Second name (required)<br />
+                    <input type="text" name="Secondname" />
+            </p>
+            <p>
+                    Your Email (required)<br />
+                    <input type="email" name="Emailaddress" />
+            </p>
+            <p>
+                    Your Telephone number (required)<br />
+                    <input type="text" name="Teleno" />
+            </p>
+            <p>
+                    Your Postcode (required)<br />
+                    <input type="text" name="Postcode"  maxlength="8" />
+            </p>
+            <p>
+                    Your Address (required)<br />
+                    <input type="text" name="Address" />
+            </p>
+            <p>
+                    Your County (required)<br />
+                    <input type="text" name="County" />
+            </p>
+            <p>
+                    Your Country (required)<br />
+                    <input type="text" name="Country"/>
+            </p>
+                <label>
+                    Your enquiry<br />
+                </label>
+                <input type = "radio"
+ 
+                 name = ""
+ 
+                 id = "subscriptionPersonal"
+ 
+                 value = ""
+ 
+                 checked = "checked" />
+ 
+          <label for = "subscription">Personal</label>
+ 
+          <input type = "radio"
+ 
+                 name = ""
+ 
+                 id = "subscriptionCorporate"
+ 
+                 value = "" />
+ 
+          <label for = "subscription">Corporate</label>
+ 
+          <input type = "radio"
+ 
+                 name = ""
+ 
+                 id = "subscriptionStudent"
+ 
+                 value = "" />
+ 
+          <label for = "subscription">Student</label>
+
+            </p>
+        <input type="submit" value="Submit"/>
+        </form>
+        
+    </div>
+</body>
+<footer>
+    <div id="footer">
+        <p id="pf1">Website developed by Lucas Miltiadou</p>
+        <p id="pf2">Copyright 2020 © Worcester Civic Society. All rights reserved. Registered Charity No 505346. Privacy Policy</p>
+<a href="Extra pages/SiteMap.html"><img src="../assets/btnSitemap.png" id="pf3" alt="Sitemap"></a>        
+    </div>
+</footer>
