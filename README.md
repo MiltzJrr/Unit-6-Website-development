@@ -1,5 +1,9 @@
 # Unit-6-Website-development
-This project is from my work in BTEC IT Extended Diploma. This is the actual work that I submitted for my grade (in past) and I am happy for anyone to use it for their own projects and/or proof of work I can do.
+------------------------------------------------------------------------------------------------------------
+Notes:
+1. This project is from my work in BTEC IT Extended Diploma. This is the actual work that I submitted for my grade (in past) and I am happy for anyone to use it for their own projects and/or proof of work I can do and have done.
+
+2. For Unit 6, you will see there is no Assignment 3 (U6A3) as this final assignment was paired with /Unit-9-Project-Management.
 ------------------------------------------------------------------------------------------------------------
 If you are viewing this because:
 
@@ -18,9 +22,21 @@ You can contact me at miltzjr@gmail.com, I am happy to answer any queries you ma
 ------------------------------------------------------------------------------------------------------------
 To donate:
 Visit paypal.me/lmiltiadou
+
 ------------------------------------------------------------------------------------------------------------
 Updates: 
-V.0.0.1 - Files submitted to Github
+V0.0.1 - Unit-6-Website-development was updated *File created - 'readme.md'  
+
+v0.0.2 - reame.md was updated *Section added - 'If you are viewing this because:'
+
+v0.0.3 - reame.md was updated *Section added - 'To donate:'
+
+v0.0.4 - reame.md was updated *Section added - 'updates'
+
+v0.0.5 - reame.md was updated *Section added - 'notes'
+
+v0.0.6 - reame.md was updated *Section added - 'Terms & Conditions!'
+
 ------------------------------------------------------------------------------------------------------------
 Terms & Conditions!
 
